@@ -1,0 +1,7 @@
+A:\C#\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe.config
+A:\C#\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe
+A:\C#\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.pdb
+A:\C#\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csproj.AssemblyReference.cache
+A:\C#\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csproj.CoreCompileInputs.cache
+A:\C#\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.exe
+A:\C#\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.pdb

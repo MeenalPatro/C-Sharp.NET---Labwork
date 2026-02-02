@@ -1,0 +1,7 @@
+A:\C#\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe.config
+A:\C#\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe
+A:\C#\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.pdb
+A:\C#\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.csproj.AssemblyReference.cache
+A:\C#\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.csproj.CoreCompileInputs.cache
+A:\C#\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.exe
+A:\C#\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.pdb
