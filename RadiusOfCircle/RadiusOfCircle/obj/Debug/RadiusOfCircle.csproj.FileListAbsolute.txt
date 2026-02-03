@@ -1,0 +1,7 @@
+A:\C#\RadiusOfCircle\RadiusOfCircle\obj\Debug\RadiusOfCircle.csproj.AssemblyReference.cache
+A:\C#\RadiusOfCircle\RadiusOfCircle\obj\Debug\RadiusOfCircle.csproj.CoreCompileInputs.cache
+A:\C#\RadiusOfCircle\RadiusOfCircle\bin\Debug\RadiusOfCircle.exe.config
+A:\C#\RadiusOfCircle\RadiusOfCircle\bin\Debug\RadiusOfCircle.exe
+A:\C#\RadiusOfCircle\RadiusOfCircle\bin\Debug\RadiusOfCircle.pdb
+A:\C#\RadiusOfCircle\RadiusOfCircle\obj\Debug\RadiusOfCircle.exe
+A:\C#\RadiusOfCircle\RadiusOfCircle\obj\Debug\RadiusOfCircle.pdb
