@@ -1,0 +1,14 @@
+A:\C#\LoanEligibility\LoanEligibility\bin\Debug\net10.0\LoanEligibility.exe
+A:\C#\LoanEligibility\LoanEligibility\bin\Debug\net10.0\LoanEligibility.deps.json
+A:\C#\LoanEligibility\LoanEligibility\bin\Debug\net10.0\LoanEligibility.runtimeconfig.json
+A:\C#\LoanEligibility\LoanEligibility\bin\Debug\net10.0\LoanEligibility.dll
+A:\C#\LoanEligibility\LoanEligibility\bin\Debug\net10.0\LoanEligibility.pdb
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\LoanEligibility.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\LoanEligibility.AssemblyInfoInputs.cache
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\LoanEligibility.AssemblyInfo.cs
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\LoanEligibility.csproj.CoreCompileInputs.cache
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\LoanEligibility.dll
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\refint\LoanEligibility.dll
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\LoanEligibility.pdb
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\LoanEligibility.genruntimeconfig.cache
+A:\C#\LoanEligibility\LoanEligibility\obj\Debug\net10.0\ref\LoanEligibility.dll
