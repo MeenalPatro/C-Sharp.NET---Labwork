@@ -1,0 +1,14 @@
+A:\C#\BillDiscount\BillDiscount\bin\Debug\net10.0\BillDiscount.exe
+A:\C#\BillDiscount\BillDiscount\bin\Debug\net10.0\BillDiscount.deps.json
+A:\C#\BillDiscount\BillDiscount\bin\Debug\net10.0\BillDiscount.runtimeconfig.json
+A:\C#\BillDiscount\BillDiscount\bin\Debug\net10.0\BillDiscount.dll
+A:\C#\BillDiscount\BillDiscount\bin\Debug\net10.0\BillDiscount.pdb
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\BillDiscount.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\BillDiscount.AssemblyInfoInputs.cache
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\BillDiscount.AssemblyInfo.cs
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\BillDiscount.csproj.CoreCompileInputs.cache
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\BillDiscount.dll
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\refint\BillDiscount.dll
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\BillDiscount.pdb
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\BillDiscount.genruntimeconfig.cache
+A:\C#\BillDiscount\BillDiscount\obj\Debug\net10.0\ref\BillDiscount.dll
