@@ -1,0 +1,14 @@
+A:\C#\ArrayMin\ArrayMin\bin\Debug\net10.0\ArrayMin.exe
+A:\C#\ArrayMin\ArrayMin\bin\Debug\net10.0\ArrayMin.deps.json
+A:\C#\ArrayMin\ArrayMin\bin\Debug\net10.0\ArrayMin.runtimeconfig.json
+A:\C#\ArrayMin\ArrayMin\bin\Debug\net10.0\ArrayMin.dll
+A:\C#\ArrayMin\ArrayMin\bin\Debug\net10.0\ArrayMin.pdb
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ArrayMin.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ArrayMin.AssemblyInfoInputs.cache
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ArrayMin.AssemblyInfo.cs
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ArrayMin.csproj.CoreCompileInputs.cache
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ArrayMin.dll
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\refint\ArrayMin.dll
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ArrayMin.pdb
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ArrayMin.genruntimeconfig.cache
+A:\C#\ArrayMin\ArrayMin\obj\Debug\net10.0\ref\ArrayMin.dll
