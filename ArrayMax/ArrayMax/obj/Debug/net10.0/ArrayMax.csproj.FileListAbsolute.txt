@@ -1,0 +1,14 @@
+A:\C#\ArrayMax\ArrayMax\bin\Debug\net10.0\ArrayMax.exe
+A:\C#\ArrayMax\ArrayMax\bin\Debug\net10.0\ArrayMax.deps.json
+A:\C#\ArrayMax\ArrayMax\bin\Debug\net10.0\ArrayMax.runtimeconfig.json
+A:\C#\ArrayMax\ArrayMax\bin\Debug\net10.0\ArrayMax.dll
+A:\C#\ArrayMax\ArrayMax\bin\Debug\net10.0\ArrayMax.pdb
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ArrayMax.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ArrayMax.AssemblyInfoInputs.cache
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ArrayMax.AssemblyInfo.cs
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ArrayMax.csproj.CoreCompileInputs.cache
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ArrayMax.dll
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\refint\ArrayMax.dll
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ArrayMax.pdb
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ArrayMax.genruntimeconfig.cache
+A:\C#\ArrayMax\ArrayMax\obj\Debug\net10.0\ref\ArrayMax.dll
